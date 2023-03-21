@@ -1,0 +1,6 @@
+cd command refers to change directory and is used to get into the desired directory. 
+To navigate between the folders the cd command is 
+
+ls command is used to list all the files and folders in the current directory. Syntax:
+
+ls
